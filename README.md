@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Muskan!</h1>
+<h1 align="center">Hey! I'm Muskan!</h1>
 <h3 align="center">A Spirited Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://octodex.github.com/images/femalecodertocat.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskangarg24&label=Profile%20views&color=0e75b6&style=flat" alt="muskangarg24" /> </p>
