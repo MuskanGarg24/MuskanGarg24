@@ -10,7 +10,7 @@
 
 - 🤝 Looking to work together with **people who loves learning in community.**
 
-- ⚡ Fun fact : **I love debugging because it makes me feel like a saviour.**
+- ⚡ Fun fact : **I'm a developer who's not a caffeine addict.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
