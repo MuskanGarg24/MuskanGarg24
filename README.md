@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Muskan!</h1>
-<h3 align="center">A Spirited Web Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://octodex.github.com/images/femalecodertocat.png">
 
 - 👩‍🎓 Pursuing B.Tech. in **Information Technology.**
