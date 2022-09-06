@@ -10,7 +10,7 @@
 
 - 🤝 Looking to work together with **people who loves learning in community.**
 
-- ⚡ Fun fact : **I'm a developer who's not a caffeine addict.**
+- ⚡ Fun fact : **I'm a programmer who's not a caffeine addict.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
