@@ -12,6 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanGarg24&theme=radical&hide_border=false)
 
 ## 🐦 Tweets
-[![](https://gtce.itsvg.in/api?username=muskan_2409)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=muskan_2409)](https://twitter.com/muskan_2409)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
