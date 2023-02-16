@@ -1,5 +1,5 @@
-# 🚀 About Me
-👩‍🎓 Sophomore in Information Technology<br>👩‍💻 Full Stack Developer specialized in MERN<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>☕ I don't need coffee to keep me awake
+# 💫 About Me
+💻 Java Programmer<br>👩‍💻 Full Stack Developer specialized in MERN<br>👩‍🎓 Sophomore in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>☕ I don't need coffee to keep me awake
 
 
 ## 🌐 Socials
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=MuskanGarg24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuskanGarg24&theme=radical&hide_border=false)
 
-## 🐦 Latest Tweet
+## 🐦 Tweets
 [![](https://gtce.itsvg.in/api?username=muskan_2409)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
