@@ -1,5 +1,5 @@
 # 💫 About Me
-💻 Java Programmer<br>👩‍💻 Full Stack Developer specialized in MERN<br>👩‍🎓 Sophomore in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>☕ I don't need coffee to keep me awake
+💻 Java Programmer<br>👩‍💻 Full Stack Web Developer <br>👩‍🎓 Sophomore in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>☕ I don't need coffee to keep me awake
 
 
 ## 🌐 Socials
