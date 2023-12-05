@@ -1,6 +1,5 @@
 # 💫 About Me
-💻 Java Programmer<br>👩‍💻 Full Stack Web Developer <br>👩‍🎓 Sophomore in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>☕ I don't need coffee to keep me awake
-
+💻 Java Programmer<br>👩‍💻 Full Stack Web Developer<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muskangarg_2409) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskangarg2409) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/muskan_2409) 
